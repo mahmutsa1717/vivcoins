@@ -1,1 +1,7 @@
-{ "name": "vivocoins", "website": "https://github.com/mahmutsa1717/vivcoins/", "description": "Vivocoins -18-02-2024", "logo": "https://github.com/mahmutsa1717/vivcoins/blob/main/logo.png", "twitter": "https://twitter.com/MonkeDenis" }
+{ 
+  "name": "vivocoins", 
+  "website": "https://github.com/mahmutsa1717/vivcoins/", 
+  "description": "Vivocoins -18-02-2024", 
+  "logo": "https://raw.githubusercontent.com/mahmutsa1717/vivcoins/main/vivocoins_logo.png", 
+  "twitter": "https://twitter.com/MonkeDenis"
+}
